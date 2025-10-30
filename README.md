@@ -6,7 +6,7 @@ Atualmente trabalho como **Auxiliar de TI** no Grau Técnico e estou sempre estu
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas e Engenharia de software**
 - 🧠 Experiência com **suporte técnico**, **manutenção de hardware/software** e **desenvolvimento de sistemas**
 - 💡 Gosto de aprender coisas novas e ser **proativo**
 - ⚙️ Interesse em **desenvolvimento web, automação com Python e bancos de dados**
@@ -48,7 +48,7 @@ Atualmente trabalho como **Auxiliar de TI** no Grau Técnico e estou sempre estu
 ---
 
 ### 🌎 Onde me encontrar
-📧 **E-mail:** [cristianosilvalucas2019@gmail.com](mailto:cristianosilvalucas2019@gmail.com)  
+📧 **E-mail:** [lucascristianodev@gmail.com](mailto:lucascristianodev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/lucascris203](https://www.linkedin.com/in/lucascris203/)  
 💻 **GitHub:** [github.com/lucascris203](https://github.com/lucascris203)
 
